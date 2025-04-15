@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object",
+  "%Name":"obj_example",
   "eventList":[],
   "managed":true,
-  "name":"Object",
+  "name":"obj_example",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
-    "path":"folders/Objects.yy",
+    "path":"folders/_Example Minigame/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
