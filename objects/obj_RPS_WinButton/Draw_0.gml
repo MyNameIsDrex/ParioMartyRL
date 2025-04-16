@@ -1,0 +1,1 @@
+draw_text_transformed(132, 650, "WIN", 2, 2, 0);

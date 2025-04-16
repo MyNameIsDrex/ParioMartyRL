@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fnt_title",
+  "%Name":"fnt_RPS",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":14,
@@ -189,10 +189,10 @@
   "last":0,
   "lineHeight":18,
   "maintainGms1Font":false,
-  "name":"fnt_title",
+  "name":"fnt_RPS",
   "parent":{
-    "name":"Main",
-    "path":"folders/Main.yy",
+    "name":"Rock-Paper-Scissors",
+    "path":"folders/Rock-Paper-Scissors.yy",
   },
   "pointRounding":0,
   "ranges":[
@@ -206,7 +206,10 @@
   "sdfSpread":8,
   "size":12.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }
