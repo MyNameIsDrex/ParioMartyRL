@@ -16,8 +16,10 @@ if keyboard_check(vk_nokey)
 if keyboard_check_pressed(vk_up) and grounded = true
 {
 	grounded = false;
-	phy_speed_y = -15
+	phy_speed_y = -19
 	
 }
 
 if !place_meeting(obj_player.x,obj_player.y,obj_platform){grounded = false}
+
+if place_meeting(obj_player.x,obj_player.y,obj_death){room_goto(LoseRoom)}
