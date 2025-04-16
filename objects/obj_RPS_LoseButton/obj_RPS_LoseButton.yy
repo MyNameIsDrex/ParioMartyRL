@@ -31,6 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":null,
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_nextroom",
+    "path":"sprites/spr_nextroom/spr_nextroom.yy",
+  },
   "visible":true,
 }

@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_RPS_WinButton",
+  "%Name":"obj_BackToMainButton",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_RPS_WinButton",
+  "name":"obj_BackToMainButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetcs",
-    "path":"folders/Rock-Paper-Scissors/Objetcs.yy",
+    "name":"Win-Lose Rooms",
+    "path":"folders/Win-Lose Rooms.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,10 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
-  "spriteMaskId":{
-    "name":"spr_nextroom",
-    "path":"sprites/spr_nextroom/spr_nextroom.yy",
+  "spriteId":{
+    "name":"spr_MenuButton",
+    "path":"sprites/spr_MenuButton/spr_MenuButton.yy",
   },
+  "spriteMaskId":null,
   "visible":true,
 }
