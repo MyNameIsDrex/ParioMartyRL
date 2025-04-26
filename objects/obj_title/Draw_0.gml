@@ -1,5 +1,5 @@
 draw_set_halign(fa_center)
 draw_set_font(fnt_title)
-draw_text(obj_title.x,obj_title.y,"Jumanji")
+draw_text(obj_title.x,obj_title.y,"JengaByte")
 draw_set_font(fnt_subtitle)
-draw_text(obj_title.x,obj_title.y+80,"if it was made by two university students")
+draw_text(obj_title.x,obj_title.y+80,"Jenga Meets The Digital World!")

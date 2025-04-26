@@ -1,1 +1,0 @@
-if place_meeting(obj_goal.x,obj_goal.y,obj_player){room_goto(WinRoom)}

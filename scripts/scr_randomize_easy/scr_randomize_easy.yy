@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_randomize_easy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_randomize_easy",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Main/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
