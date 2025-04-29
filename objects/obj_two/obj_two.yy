@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mole",
+  "%Name":"obj_two",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_mole",
+  "name":"obj_two",
   "overriddenProperties":[],
   "parent":{
-    "name":"Whack A Mole",
-    "path":"folders/Whack A Mole.yy",
+    "name":"Objects",
+    "path":"folders/Main/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hole",
-    "path":"sprites/spr_hole/spr_hole.yy",
+    "name":"spr_two",
+    "path":"sprites/spr_two/spr_two.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,0 +1,1 @@
+obj_mole.trigger = true

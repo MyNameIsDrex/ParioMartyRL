@@ -1,0 +1,1 @@
+draw_healthbar(0,0,room_width,30,alarm[0],c_lime,c_orange,c_red,0,false,false)
